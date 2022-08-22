@@ -3,7 +3,7 @@ package com.cg.core;
 public class FirstProgram {
 
 	public static void main(String[] args) {
-		System.out.println("welcome to M24");
+		System.out.println("Welcome to M24");
 		
 
 	}
